@@ -15,8 +15,7 @@ public class BaseTest {
 	public goToURL() {
 		dr.get("https://www.eshopper24.com/");
 		return new goToURL(dr);
-		dr.quit();
-		dr.quit():
+		
 	}
 
 }
